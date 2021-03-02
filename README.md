@@ -1,4 +1,4 @@
-# spaceconcordia-ros-training
+# spaceconcordia-ros-training-flask
 
 ## ROS Robot Programming Key Notes
 
